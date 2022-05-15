@@ -1,12 +1,9 @@
 # txt2voice
+**VERY EARLY VERSION, USE AT YOUR OWN PERIL**
 
 by Tim Gore, KE6QBV  
 
 **ABOUT**  
-
-==========================================================
-**VERY EARLY VERSION, USE AT YOUR OWN PERIL****
-==========================================================
 
 *t2vGUI* is based on my earlier program, *txt2voice*. It's a small python program to create channel announcement voice files for use with Motorola two-way radios.  
 
